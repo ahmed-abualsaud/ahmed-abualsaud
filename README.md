@@ -6,14 +6,58 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Web Developer** with **6+ years of experience** in development and project leadership. I specialize in building scalable web applications using modern technologies and frameworks.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Passionate+Full-Stack+Developer;6%2B+Years+Building+Web+Solutions;Expert+in+Modern+Frameworks;Leading+Development+Teams" alt="About Me" />
+</div>
 
-- 🔭 Currently working on **Smart Groceries** and **ePush** projects
-- 🌱 Constantly learning and adapting to new technologies
-- 👨‍💼 Experience in **project leadership** and team collaboration
-- 🎯 Focused on creating efficient, user-friendly web solutions
+<table align="center">
+<tr>
+<td width="50%">
+
+### 💼 Professional Focus
+- 🔭 **Currently Building**: Smart Groceries & ePush Platform
+- 🌱 **Always Learning**: Latest web technologies & frameworks
+- 👨‍💼 **Leadership**: Project management & team collaboration
+- 🎯 **Mission**: Creating scalable, efficient web solutions
+
+</td>
+<td width="50%">
+
+### 🎯 Core Expertise
+- 🏗️ **Full-Stack Development** (6+ years)
+- 🚀 **Modern Frameworks** (Laravel, React, Vue, Svelte)
+- 📈 **Project Leadership** & Team Management
+- 🔧 **System Architecture** & Scalable Solutions
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Building%20the%20Future%20of%20Web&fontSize=16&fontColor=ffffff&animation=twinkling" />
+</div>
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
 ### Frontend
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
@@ -34,6 +78,12 @@ I'm a passionate **Full-Stack Web Developer** with **6+ years of experience** in
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-4F4F4F?style=for-the-badge&logo=websocket&logoColor=white)
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-abualsaud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
 
 ## 📊 GitHub Stats
 
